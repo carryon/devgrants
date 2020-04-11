@@ -9,7 +9,7 @@ We will also add new high performance servers to achieve the optimal configurati
 A team of 12 people including R & D, hardware and software operation and maintenance personnel serves for Filecoin Project,
 So, we have adequate resources to participate in the PB-scale miner test, 
 And We are do very willing to provide real valuable test data.
-## Power validation(todo) 
+## Power validation(testnet2,todo) 
 ## Test list
 - Benchmarking
   - CPU, GPU, RAM, SSD and HDDs, also including Switches
